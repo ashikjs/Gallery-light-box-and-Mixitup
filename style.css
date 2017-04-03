@@ -1,0 +1,72 @@
+
+/******************   Custom css for  MIxitup gallery      ****************/
+.gallery { margin-top: 100px; }
+.gallery .mixsitup_slider { }
+.gallery .mixsitup_slider img {
+  width: 100%;
+  padding: 5px;
+  height: 300px;
+}
+.slider_cetagory_name ul {
+  text-align: center; }
+.slider_cetagory_name ul li {
+  display: inline-block;
+  font-size: 18px;
+  background-color: #F5F5F5;
+  color: #000;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.052);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.052);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.052);
+  padding: 10px 20px;
+  cursor: pointer;
+  margin: 0 5px;
+  transition: all .82s;
+}
+.slider_cetagory_name ul li:hover, .slider_cetagory_name ul li.active {
+  background-color: #178BE9;
+  color: #FFFFFF;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.052);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.052);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.052);
+}
+.slider_cetagory_name { padding-bottom: 30px; }
+.continer_slider_images .mix {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
